@@ -1,0 +1,14 @@
+body {
+    background-color:lemonchiffon;
+    color:rgb(0, 136, 255);
+    text-align: center;
+    font-family: 'Arial';
+}
+
+img {
+    width: 400px
+}
+
+#purple-text {
+    color:purple
+}
